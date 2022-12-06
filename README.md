@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Oiii eu sou Raul Oliveira
-### Administrador de empresas em transição de carreira, me tornando todo dia um pouquinho mais DEV
+### Desenvolvedor Python Jr.
 <div align="center">
   <a href="https://github.com/racooliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=racooliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
